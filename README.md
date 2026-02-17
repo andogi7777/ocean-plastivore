@@ -8,12 +8,6 @@ An autonomous robot that eats ocean plastic — and powers itself doing it.
 # 🌊 PLASTIVORE
 ### An autonomous robot that eats ocean plastic — and powers itself doing it.
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Status: Open Concept](https://img.shields.io/badge/Status-Open%20Concept-blue)]()
-[![Emissions: Zero](https://img.shields.io/badge/Toxic%20Emissions-ZERO-green)]()
-
----
-
 ## The Problem
 
 The Great Pacific Garbage Patch (GPGP) contains an estimated **80,000 tons** of plastic — an area **7× the size of the Korean Peninsula**. Every year, **8 million more tons** enter the ocean.
