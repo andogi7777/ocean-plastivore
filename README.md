@@ -120,7 +120,7 @@ This is a **public interest concept project**.
 Engineers, marine biologists, roboticists, material scientists, and funders are all welcome.
 
 **Devs & builders — thoughts welcome!**  
-📧 andogi@naver.com
+📧 nonoan7777 (at) gmail.com
 
 ---
 
